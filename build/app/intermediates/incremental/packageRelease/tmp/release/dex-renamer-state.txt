@@ -1,0 +1,4 @@
+#Fri Feb 03 15:06:51 ICT 2023
+base.0=C\:\\Users\\Wiii\\smartphone_review\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
